@@ -1,0 +1,16 @@
+body {
+    background-color: teal;
+    text-align: center;
+}
+
+select{
+    font-size: 2em;
+    appearance: menu;
+}
+
+ input{
+     font-size: 2em;
+     display: inline-block;
+     text-align: center;
+     box-sizing: border-box;
+ }
